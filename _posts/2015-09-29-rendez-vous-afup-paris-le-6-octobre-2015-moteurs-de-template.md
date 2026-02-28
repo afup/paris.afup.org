@@ -4,7 +4,7 @@ title: Rendez-vous AFUP Paris le 6 octobre 2015, Moteurs de template
 date: 2015-09-29 17:48:47
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=210
+guid: /archives/?p=210
 permalink: /rendez-vous-afup-paris-le-6-octobre-2015-moteurs-de-template
 ---
 L’antenne AFUP (Association Française des Utilisateurs de PHP) Paris donne rendez-vous le 6 octobre 2015 autour du thème des moteurs de template en PHP dans les locaux de <a href="http://www.blablacar.fr">BlaBlaCar</a>

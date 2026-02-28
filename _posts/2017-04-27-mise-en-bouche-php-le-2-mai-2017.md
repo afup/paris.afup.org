@@ -4,7 +4,7 @@ title: Mise en bouche PHP le 2 mai 2017
 date: 2017-04-27 13:19:12
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=236
+guid: /archives/?p=236
 permalink: /mise-en-bouche-php-le-2-mai-2017
 ---
 

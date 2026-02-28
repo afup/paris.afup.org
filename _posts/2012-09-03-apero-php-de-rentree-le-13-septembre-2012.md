@@ -4,7 +4,7 @@ title: Apéro PHP de rentrée le 13 septembre 2012
 date: 2012-09-03 15:15:17
 author: communication
 layout: post
-guid: http://paris.afup.org/?p=11
+guid: /archives/?p=11
 permalink: /apero-php-de-rentree-le-13-septembre-2012
 ---
 Histoire de se remettre des émotions de la rentrée, tous les amateurs de PHP de Paris et des environs sont attendus pour boire un verre dans une ambiance chaleureuse et réconfortante le jeudi 13 septembre, dès 19h15.

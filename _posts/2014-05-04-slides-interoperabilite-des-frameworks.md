@@ -4,7 +4,7 @@ title: Slides - Interopérabilité des Frameworks
 date: 2014-05-04 17:57:38
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=160
+guid: /archives/?p=160
 permalink: /slides-interoperabilite-des-frameworks
 ---
 

@@ -4,7 +4,7 @@ title: Podcast - Rendez-vous Sécurité
 date: 2014-06-13 14:06:46
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=174
+guid: /archives/?p=174
 permalink: /podcast-rendez-vous-securite
 ---
 

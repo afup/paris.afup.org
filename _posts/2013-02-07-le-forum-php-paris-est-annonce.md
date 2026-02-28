@@ -4,7 +4,7 @@ title: Le Forum PHP Paris est annoncé !
 date: 2013-02-07 17:57:28
 author: communication
 layout: post
-guid: http://paris.afup.org/?p=57
+guid: /archives/?p=57
 permalink: /le-forum-php-paris-est-annonce
 ---
 Le plus important cycle international de conférences dédié au langage et à son écosystème en France, événement emblématique de l'AFUP,  se tiendra<strong> les jeudi 21 et vendredi 22 novembre 2013, à Montrouge</strong>, aux portes de Paris.

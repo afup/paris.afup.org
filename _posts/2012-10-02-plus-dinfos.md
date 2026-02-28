@@ -4,7 +4,7 @@ title: Plus d'infos
 date: 2012-10-02 17:20:19
 author: communication
 layout: post
-guid: http://paris.afup.org/?page_id=22
+guid: /archives/?page_id=22
 permalink: /plus-dinfos
 ---
 

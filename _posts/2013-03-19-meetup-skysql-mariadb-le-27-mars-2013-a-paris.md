@@ -4,7 +4,7 @@ title: Meetup SkySQL &amp; MariaDB le 27 Mars 2013 à Paris
 date: 2013-03-19 15:51:56
 author: raphaelle
 layout: post
-guid: http://paris.afup.org/?p=71
+guid: /archives/?p=71
 permalink: /meetup-skysql-mariadb-le-27-mars-2013-a-paris
 ---
 SkySQL, sponsor du dernier meetup AFUP Paris et Monty Program rassemblent l’écosystème MySQL® / MariaDB,

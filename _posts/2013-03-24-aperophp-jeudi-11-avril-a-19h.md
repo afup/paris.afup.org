@@ -4,7 +4,7 @@ title: AperoPHP – Jeudi 11 avril à 19h
 date: 2013-03-24 10:10:34
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=86
+guid: /archives/?p=86
 permalink: /aperophp-jeudi-11-avril-a-19h
 ---
 

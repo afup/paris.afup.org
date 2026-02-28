@@ -4,7 +4,7 @@ title: Le Forum PHP 2017, c’est demain (ou presque) !
 date: 2017-10-05 11:32:06
 author: ternel
 layout: post
-guid: http://paris.afup.org/?p=248
+guid: /archives/?p=248
 permalink: /forumphp-2017-cest-demain
 ---
 

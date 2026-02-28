@@ -4,7 +4,7 @@ title: Retour sur Rendez-vous PHP 5.5
 date: 2013-07-02 22:53:44
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=108
+guid: /archives/?p=108
 permalink: /retour-sur-rendez-vous-php-5-5
 ---
 Quelques jours après la sortie de PHP 5.5, l'antenne AFUP Paris a organisée une soirée, sous la forme d'un rendez-vous AFUP, pour fêter la sortie de celle-ci, en partenariat avec Agoratic, à guichet fermé.

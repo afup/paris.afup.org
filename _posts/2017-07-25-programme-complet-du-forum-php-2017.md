@@ -4,7 +4,7 @@ title: Programme complet du Forum PHP 2017
 date: 2017-07-25 22:29:33
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=239
+guid: /archives/?p=239
 permalink: /programme-complet-du-forum-php-2017
 ---
 

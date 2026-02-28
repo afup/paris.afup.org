@@ -4,7 +4,7 @@ title: DrupalCamp Paris 2013 - Save the Date !
 date: 2013-03-21 01:26:42
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=82
+guid: /archives/?p=82
 permalink: /drupalcamp-paris-2013-save-the-date
 ---
 Un des membres de la Team de l'antenne AFUP Paris, participe dans l'organisation de l'événement Drupalcamp organisé par l'association Drupal France et Francophonie (drupalfr) du 21 au 23 juin prochain à Paris autour du CMS Drupal.

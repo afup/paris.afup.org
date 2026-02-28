@@ -4,7 +4,7 @@ title: Vous êtes du genre endurant ? Le Hackathon GEN Musique et Numérique vou
 date: 2015-06-17 17:35:41
 author: communication
 layout: post
-guid: http://paris.afup.org/?p=202
+guid: /archives/?p=202
 permalink: /vous-etes-du-genre-endurant-le-hackgenmusik
 ---
 

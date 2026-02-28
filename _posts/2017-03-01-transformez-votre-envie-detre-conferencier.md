@@ -4,7 +4,7 @@ title: Transformez votre envie d'être conférencier
 date: 2017-03-01 15:18:10
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=222
+guid: /archives/?p=222
 permalink: /transformez-votre-envie-detre-conferencier
 ---
 Pour commencer la nouvelle année 2017, l'antenne Parisienne de l'AFUP (Association française des Utilisateurs de PHP) organise une soirée de "mini-conférences PHP".

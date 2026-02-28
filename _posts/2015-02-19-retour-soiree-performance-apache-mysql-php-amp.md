@@ -4,7 +4,7 @@ title: Retour soirée Performance Apache MySQL PHP (AMP)
 date: 2015-02-19 18:28:55
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=196
+guid: /archives/?p=196
 permalink: /retour-soiree-performance-apache-mysql-php-amp
 ---
 Le rendez-vous organisé par l'antenne AFUP (Association Française des Utilisateurs de PHP) de Paris, sur le thème de la performance Apache MySQL PHP (AMP) a été un succès.

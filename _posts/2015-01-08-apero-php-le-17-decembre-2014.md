@@ -4,7 +4,7 @@ title: Apéro PHP le 17 décembre 2014
 date: 2015-01-08 08:09:04
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=185
+guid: /archives/?p=185
 permalink: /apero-php-le-17-decembre-2014
 ---
 AFUP Paris vous propose de se retrouver autour d'un verre le 17 décembre 2015. A cette occasion, nous pouvons parler :

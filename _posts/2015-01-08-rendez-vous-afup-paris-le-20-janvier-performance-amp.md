@@ -4,7 +4,7 @@ title: Rendez-vous AFUP Paris le 20 janvier, Performance AMP
 date: 2015-01-08 08:14:32
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=189
+guid: /archives/?p=189
 permalink: /rendez-vous-afup-paris-le-20-janvier-performance-amp
 ---
 L’antenne AFUP (Association Française des Utilisateurs de PHP) Paris donne rendez-vous le 20 janvier 2015 autour du thème de la performance AMP (Apache, MySQL, PHP) dans les locaux de l'<a href="http://www.42.fr">école 42</a>

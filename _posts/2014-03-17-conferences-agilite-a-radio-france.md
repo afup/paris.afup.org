@@ -4,14 +4,14 @@ title: Conférences agilité à Radio France
 date: 2014-03-17 13:53:03
 author: hellosct1
 layout: post
-guid: http://paris.afup.org/?p=147
+guid: /archives/?p=147
 permalink: /conferences-agilite-a-radio-france
 ---
 Le webstudio de production de Radio France est composé de chefs de projets techniques, développeurs, architectes techniques, administrateurs système, webdesigners, intégrateurs... qui assurent au quotidien les développements, la production et la maintenance des sites et applications mobiles de Radio France.<strong> </strong>
 
 <strong>Le 24 mars 2014, il organise une<strong> après-midi et une soirée de conférences </strong></strong><strong>au sein du mythique studio 105 de la Maison de la Radio</strong>
 
-L'<a href="http://www.afup.org">AFUP</a> (Association Française des Utilisateurs de PHP) animera la dernière session avec 2 de ces membres : Jean-François Lépine, secrétaire de l'AFUP, et Benoît Merlet, membre AFUP. Ils représenteront l'association et présenteront le retour d'expérience programmé à 18h30, intitulé "Quand le besoin métier pilote l'architecture applicative". Par ailleurs, l'antenne <a href="http://paris.afup.org">AFUP Paris</a> sera présente à cet événement.
+L'<a href="http://www.afup.org">AFUP</a> (Association Française des Utilisateurs de PHP) animera la dernière session avec 2 de ces membres : Jean-François Lépine, secrétaire de l'AFUP, et Benoît Merlet, membre AFUP. Ils représenteront l'association et présenteront le retour d'expérience programmé à 18h30, intitulé "Quand le besoin métier pilote l'architecture applicative". Par ailleurs, l'antenne <a href="/archives">AFUP Paris</a> sera présente à cet événement.
 
 Le programme de cette journée se décompose :
 

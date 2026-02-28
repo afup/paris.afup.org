@@ -4,7 +4,7 @@ title: Participez à l'assemblée générale annuelle de l'AFUP
 date: 2013-01-22 16:53:08
 author: communication
 layout: post
-guid: http://paris.afup.org/?p=52
+guid: /archives/?p=52
 permalink: /participez-a-lassemblee-generale-annuelle-de-lafup
 ---
 Conformément aux statuts de l'association, tous les membres de l'AFUP sont conviés à se réunir le samedi 16 février 2013 pour l'assemblée générale ordinaire de l'AFUP.

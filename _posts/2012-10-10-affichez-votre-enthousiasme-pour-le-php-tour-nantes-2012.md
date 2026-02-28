@@ -4,7 +4,7 @@ title: Affichez votre enthousiasme pour le PHP Tour Nantes 2012
 date: 2012-10-10 14:28:07
 author: communication
 layout: post
-guid: http://paris.afup.org/?p=26
+guid: /archives/?p=26
 permalink: /affichez-votre-enthousiasme-pour-le-php-tour-nantes-2012
 ---
 

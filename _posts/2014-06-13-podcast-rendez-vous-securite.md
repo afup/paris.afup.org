@@ -5,7 +5,7 @@ date: 2014-06-13 14:06:46
 author: hellosct1
 layout: post
 guid: /archives/?p=174
-permalink: /podcast-rendez-vous-securite
+permalink: /podcast-rendez-vous-securite/
 ---
 
 Le rendez-vous organisé par l'antenne AFUP (Association Française des Utilisateurs de PHP) de Paris, sur le thème de la sécurité.

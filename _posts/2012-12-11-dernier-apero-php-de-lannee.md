@@ -5,7 +5,7 @@ date: 2012-12-11 11:30:46
 author: raphaelle
 layout: post
 guid: /archives/?p=39
-permalink: /dernier-apero-php-de-lannee
+permalink: /dernier-apero-php-de-lannee/
 ---
 Le dernier apéro PHP parisien de l'année 2012 aura lieur jeudi 20 décembre au Père Tranquille! Venez nombreux, ce sera l'occasion de partager les expériences suite au PHP Tour, et de discuter des prochains Rendez-Vous AFUP de 2013.
 

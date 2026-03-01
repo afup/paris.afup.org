@@ -5,7 +5,7 @@ date: 2017-10-05 11:32:06
 author: ternel
 layout: post
 guid: /archives/?p=248
-permalink: /forumphp-2017-cest-demain
+permalink: /forumphp-2017-cest-demain/
 ---
 
 J-20 avant le grand rendez-vous parisien de la communauté PHP !

@@ -5,7 +5,7 @@ date: 2014-04-01 10:44:56
 author: hellosct1
 layout: post
 guid: /archives/?p=157
-permalink: /details-de-la-soiree-interoperabilite-des-frameworks
+permalink: /details-de-la-soiree-interoperabilite-des-frameworks/
 ---
 A la veille du rendez-vous (2 avril), organisé par l'antenne AFUP (Association française des Utilisateurs de PHP) de Paris, le programme a été complètement dévoilé :
 

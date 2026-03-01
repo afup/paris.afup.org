@@ -5,7 +5,7 @@ date: 2013-03-24 10:10:34
 author: hellosct1
 layout: post
 guid: /archives/?p=86
-permalink: /aperophp-jeudi-11-avril-a-19h
+permalink: /aperophp-jeudi-11-avril-a-19h/
 ---
 
 Après un meetup et pour marquer le printemps 2013, l'antenne AFUP Paris organise un apéro PHP le jeudi 11 avril à 19h. Il se déroulera :

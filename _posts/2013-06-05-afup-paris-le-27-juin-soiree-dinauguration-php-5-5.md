@@ -5,7 +5,7 @@ date: 2013-06-05 15:43:25
 author: hellosct1
 layout: post
 guid: /archives/?p=104
-permalink: /afup-paris-le-27-juin-soiree-dinauguration-php-5-5
+permalink: /afup-paris-le-27-juin-soiree-dinauguration-php-5-5/
 ---
 La communauté PHP au travers de l'AFUP Paris est très heureuse d'annoncer la sortie imminente de <strong>PHP 5.5</strong> (Juin 2013) et invite tous les utilisateurs de PHP à venir en découvrir les nouveautés le <strong>27 Juin à 19h chez <a href="http://www.supinternet.fr/">SupInternet</a></strong>.
 

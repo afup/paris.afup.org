@@ -5,7 +5,7 @@ date: 2014-05-04 17:57:38
 author: hellosct1
 layout: post
 guid: /archives/?p=160
-permalink: /slides-interoperabilite-des-frameworks
+permalink: /slides-interoperabilite-des-frameworks/
 ---
 
 Le 2 avril dernier, c'est déroulé le rendez-vous AFUP Paris sur le thème "L'intéropérabilité des frameworks".

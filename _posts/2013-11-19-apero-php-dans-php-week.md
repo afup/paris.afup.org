@@ -5,7 +5,7 @@ date: 2013-11-19 02:12:22
 author: hellosct1
 layout: post
 guid: /archives/?p=135
-permalink: /apero-php-dans-php-week
+permalink: /apero-php-dans-php-week/
 ---
 Cette semaine, du 18 au 22 novembre à Paris, <strong>c'est la PHP Week </strong>! En effet, juste avant le Forum PHP 2013 les 21 et 22 novembre prochains, se tiendra la Zend Con, les 19 et 20 novembre.
 

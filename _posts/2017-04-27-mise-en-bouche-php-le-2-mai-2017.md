@@ -5,7 +5,7 @@ date: 2017-04-27 13:19:12
 author: hellosct1
 layout: post
 guid: /archives/?p=236
-permalink: /mise-en-bouche-php-le-2-mai-2017
+permalink: /mise-en-bouche-php-le-2-mai-2017/
 ---
 
 L'<a href="http://afup.paris.org">antenne AFUP Paris </a>vous invite à ce rendez-vous pour une '<b>Mise en Bouche PHP</b>' avant le <a href="http://www.phptour.org">PHP Tour 2017</a> de Nantes, avec des intervenants du prochain PHP Tour dans les locaux de <a href="http://www.hitema.fr">Hitema</a> Paris le 2 mais 2017.

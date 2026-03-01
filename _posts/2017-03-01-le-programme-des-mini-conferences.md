@@ -5,7 +5,7 @@ date: 2017-03-01 15:25:31
 author: hellosct1
 layout: post
 guid: /archives/?p=225
-permalink: /le-programme-des-mini-conferences
+permalink: /le-programme-des-mini-conferences/
 ---
 Nous vous communiquons le programme pour notre soirée des <a href="https://www.meetup.com/fr-FR/afup-paris-php/events/236837021/">mini-conférences PHP</a>. qui se déroulera le jeudi 26 janvier (dans 2 jours) :
 

@@ -5,7 +5,7 @@ date: 2014-05-23 21:42:16
 author: hellosct1
 layout: post
 guid: /archives/?p=170
-permalink: /rendez-vous-afup-paris-le-5-juin-la-securite
+permalink: /rendez-vous-afup-paris-le-5-juin-la-securite/
 ---
 L’antenne AFUP (Association Française des Utilisateurs de PHP) Paris donne rendez-vous le 5 juin 2014 autour du thème de la sécurité web dans les locaux de la fondation <a href="http://www.mozilla.org">Mozilla</a>.
 

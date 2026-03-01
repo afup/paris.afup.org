@@ -5,7 +5,7 @@ date: 2013-08-07 13:46:04
 author: hellosct1
 layout: post
 guid: /archives/?p=115
-permalink: /reportage-soiree-php-5-5
+permalink: /reportage-soiree-php-5-5/
 ---
 Lors du dernier rendez-vous organisé par l'antenne Parisienne de l'AFUP (Association Française des Utilisateurs de PHP) autour de la sortie de PHP 5.5, en collaboration avec SUP'Internet, Zend, <a href="http://www.agoratic.com">Agoratic</a> et BlablaCar.
 

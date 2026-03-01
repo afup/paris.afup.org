@@ -5,7 +5,7 @@ date: 2013-02-21 17:05:19
 author: communication
 layout: post
 guid: /archives/?p=62
-permalink: /rendez-vous-afup-sur-les-bases-de-donnees-relationnelles-avec-php
+permalink: /rendez-vous-afup-sur-les-bases-de-donnees-relationnelles-avec-php/
 ---
 L'antenne AFUP Paris vous convie au premier rendez-vous AFUP de l'année, autour du sujet pointu et très actuel des bases de données relationnelles avec PHP.<strong> Il se tiendra le jeudi 28 février, dès 18h30.</strong>
 

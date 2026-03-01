@@ -5,7 +5,7 @@ date: 2015-06-17 17:35:41
 author: communication
 layout: post
 guid: /archives/?p=202
-permalink: /vous-etes-du-genre-endurant-le-hackgenmusik
+permalink: /vous-etes-du-genre-endurant-le-hackgenmusik/
 ---
 
 Développeurs parisiens, que pensez-vous d'aller coder le temps d'un week-end à Metz ? L'AFUP soutient le hackathon organisé par l'association Grand Est Numérique, le <strong>Hackathon GEN Musique et Numérique</strong>. Il se tiendra les 26, 27 et 28 juin prochains, à la Boîte à Musique de Metz.

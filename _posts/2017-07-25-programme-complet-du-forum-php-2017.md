@@ -5,7 +5,7 @@ date: 2017-07-25 22:29:33
 author: hellosct1
 layout: post
 guid: /archives/?p=239
-permalink: /programme-complet-du-forum-php-2017
+permalink: /programme-complet-du-forum-php-2017/
 ---
 
 <p><span style="font-size: large"><b>Découvrez le programme complet du Forum PHP 2017 !</b></span></p>

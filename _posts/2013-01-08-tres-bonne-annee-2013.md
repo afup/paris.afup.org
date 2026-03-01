@@ -5,7 +5,7 @@ date: 2013-01-08 15:53:17
 author: communication
 layout: post
 guid: /archives/?p=47
-permalink: /tres-bonne-annee-2013
+permalink: /tres-bonne-annee-2013/
 ---
 Toute l'équipe de l'AFUP et de l'antenne locale parisienne vous souhaite une très bonne année 2013, riche en rendez-vous AFUP, en apéros PHP, et en belles rencontres amicales et professionnelles lors de nos événements.
 

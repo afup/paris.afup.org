@@ -5,7 +5,7 @@ date: 2014-05-13 23:49:51
 author: hellosct1
 layout: post
 guid: /archives/?p=166
-permalink: /salon-solutions-linux-libres-et-open-source-2014
+permalink: /salon-solutions-linux-libres-et-open-source-2014/
 ---
 Le <a title="Salon Solutions Linux" href="http://www.solutionslinux.fr" target="_blank">Salon Solutions Linux, Libres &amp; Open Source</a> se tiendra cette année les mardi 20 et mercredi 21 mai au CNIT (La défense), et l'<a title="AFUP" href="http://afup.org" target="_blank">AFUP </a>comme chaque année <a title="l'AFUP au salon Solutions Linux" href="http://afup.org/pages/site/?route=actualites/688/afup-sera-present-solution-linux" target="_blank">y tiendra un stand </a>(rappelons que le PHP est le premier langage Open Source!), avec le soutien et la présence de l'antenne <a href="/archives">AFUP Paris</a>
 

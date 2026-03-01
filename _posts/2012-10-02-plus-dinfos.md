@@ -5,7 +5,7 @@ date: 2012-10-02 17:20:19
 author: communication
 layout: post
 guid: /archives/?page_id=22
-permalink: /plus-dinfos
+permalink: /plus-dinfos/
 ---
 
 Qu'est ce que l'antenne AFUP Paris ?

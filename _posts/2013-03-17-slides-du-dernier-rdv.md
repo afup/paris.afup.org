@@ -5,7 +5,7 @@ date: 2013-03-17 14:46:11
 author: raphaelle
 layout: post
 guid: /archives/?p=72
-permalink: /slides-du-dernier-rdv
+permalink: /slides-du-dernier-rdv/
 ---
 Le 28 février dernier, c'est déroulé le Meetup sur le thème "Les Bases de données relationnelles avec PHP".
 

@@ -5,7 +5,7 @@ date: 2012-10-10 14:28:07
 author: communication
 layout: post
 guid: /archives/?p=26
-permalink: /affichez-votre-enthousiasme-pour-le-php-tour-nantes-2012
+permalink: /affichez-votre-enthousiasme-pour-le-php-tour-nantes-2012/
 ---
 
 Vous avez d'ores et déjà pris votre place pour le PHP Tour Nantes 2012 ? Vous souhaitez annoncer aux visiteurs de votre blog que vous serez présent lors de cet événement majeur du monde du Libre ?

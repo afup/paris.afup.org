@@ -5,7 +5,7 @@ date: 2012-11-21 18:22:10
 author: communication
 layout: post
 guid: /archives/?p=35
-permalink: /il-est-encore-temps-de-prendre-sa-place-pour-le-php-tour-nantes-2012
+permalink: /il-est-encore-temps-de-prendre-sa-place-pour-le-php-tour-nantes-2012/
 ---
 Le PHP Tour Nantes 2012, c'est déjà la semaine prochaine, les 29 et 30 novembre prochains.
 

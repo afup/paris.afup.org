@@ -5,7 +5,7 @@ date: 2014-01-26 14:07:03
 author: hellosct1
 layout: post
 guid: /archives/?p=140
-permalink: /apero-php-le-6-fevrier-2014
+permalink: /apero-php-le-6-fevrier-2014/
 ---
 AFUP Paris vous propose de se retrouver autour d'un verre pour préparer les prochains événéments de l'année 2014 :
 

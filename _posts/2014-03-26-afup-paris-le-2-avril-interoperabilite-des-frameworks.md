@@ -5,7 +5,7 @@ date: 2014-03-26 02:24:28
 author: hellosct1
 layout: post
 guid: /archives/?p=155
-permalink: /afup-paris-le-2-avril-interoperabilite-des-frameworks
+permalink: /afup-paris-le-2-avril-interoperabilite-des-frameworks/
 ---
 L'antenne AFUP (Association Française des Utilisateurs de PHP) Paris donne rendez-vous le 2 avril 2014 autour du thème de "l'intéropérabilité des frameworks" à la Salle Spark.
 

@@ -5,7 +5,7 @@ date: 2014-03-17 13:53:03
 author: hellosct1
 layout: post
 guid: /archives/?p=147
-permalink: /conferences-agilite-a-radio-france
+permalink: /conferences-agilite-a-radio-france/
 ---
 Le webstudio de production de Radio France est composé de chefs de projets techniques, développeurs, architectes techniques, administrateurs système, webdesigners, intégrateurs... qui assurent au quotidien les développements, la production et la maintenance des sites et applications mobiles de Radio France.<strong> </strong>
 
